@@ -1,1 +1,1 @@
-# Wemos-D1-Mini-ESP8266-Ambilight
+# Ambilight for Acer Nitro 27"
